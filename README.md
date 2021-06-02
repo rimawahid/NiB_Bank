@@ -1,7 +1,7 @@
 ### Technology Used:
 
 - react
-- @reduxjs/toolkit
+- reduxjs /toolkit
 - react-redux
 - react-bootstrap
 - bootstrap
